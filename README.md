@@ -6,4 +6,8 @@ Kata 8 (rebase-branch) : branch greeting was rebased with master branch. Before 
 
 Kata 9 : commited below kata 10 with commit starting with revert
 
-
+Kata 11 : cleaning was performed to remove untracked files created by vimdiff in the local repository using the following commands:
+  git clean -d -x -n (for dry run)
+  git clean -d -x -f (for removing the files)
+  
+Kata 13: command 'git rebase -i <commit-hash>' was ran to reorder the history but no changes were observed in the order of commits.
