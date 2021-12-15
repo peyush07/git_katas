@@ -11,3 +11,5 @@ Kata 11 : cleaning was performed to remove untracked files created by vimdiff in
   git clean -d -x -f (for removing the files)
   
 Kata 13: command 'git rebase -i <commit-hash>' was ran to reorder the history but no changes were observed in the order of commits.
+  
+Kata 19: 2 tags were created
